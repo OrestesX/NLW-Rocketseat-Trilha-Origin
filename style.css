@@ -142,6 +142,10 @@ main {
 .logo span {
   color: var(--base-color);
 }
+
+.logo-alt span {
+  color: var(--body-color);
+}
 /* ============Navigation============= */
 
 nav {
@@ -438,4 +442,10 @@ nav.show div.icon-close {
 
 #contact ul li i {
   color: var(--base-color);
+}
+
+/* ============Footer============= */
+
+footer {
+  background: var(--base-color);
 }
